@@ -1,3 +1,2 @@
-## Porque esto existe???
-PORQUE EL MALDITO MICROCODE QUE SE SUPONE QUE OPTIMIZA ME ESTA QUITANDO AÑOS DE VIDA POR SER UN BLOB AAAAAAAAAAAAAAAAAAAAA
-Btw creo que funciona
+## What is this?
+This is a moded cachy-patch file that removes all calls to microcode who is debloted in linux-libre
